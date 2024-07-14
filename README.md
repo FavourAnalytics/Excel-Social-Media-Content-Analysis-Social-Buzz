@@ -31,11 +31,6 @@ From the data, we identified 16 unique categories of posts. The top 5 categories
 - **Seasonal Trends**: January is the most common month for posts, aligning with post-holiday activity.
 - **Health Conscious Users**: Strong interest in healthy eating content.
 
-## Files in Repository
-- `data/`: Contains the original and cleaned data files.
-- `analysis/`: Contains the Excel file with data cleaning, modelling, analysis, and visualizations.
-- `report/`: Contains the final analysis report.
-
 ## How to Use
 1. Download the Excel file from the `analysis/` folder.
 2. Open the file in Microsoft Excel.
