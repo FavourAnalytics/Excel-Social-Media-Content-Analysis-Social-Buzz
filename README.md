@@ -3,6 +3,13 @@
 ## Project Overview
 This project analyzes the content categories of Social Buzz, a fictional social media company, to identify the top 5 categories with the largest aggregate popularity using Excel.
 
+...
+
+## Video Tutorial
+I have recorded a step-by-step video tutorial that demonstrates the entire analysis process.
+
+## Watch the Video
+[Click here to watch the video on Youtube](https://youtu.be/B4tZgT5UYg0)
 ## Objectives
 1. Audit of their big data practice.
 2. Recommendations for a successful IPO.
